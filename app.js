@@ -89,7 +89,7 @@ function finishHtml() {
             console.log(err);
         };
     });
-    console.log("'Congrats Your Pofile Team Is Generated'\n Plz!, checkout in Output folder ");
+    console.log("'Congrats Your Pofile Team Is Generated'\n You will find it in the Output folder file: Team.html ");
 }
 addMember();
     
