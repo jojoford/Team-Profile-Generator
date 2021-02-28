@@ -170,11 +170,10 @@ function addHtml(member) {
     });
     console.log("end");
 }
-
-// addMember(); startHtml(); addHtml("") .then(function() { finishHtml(); }); ?
+}
 initApp();          
     
         
     
     
-}
+
