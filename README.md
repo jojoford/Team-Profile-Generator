@@ -27,3 +27,5 @@ email
 github
 # Technologies used
 NPM module, jest, inquirer, javascript, node.js
+
+## Walk through video
