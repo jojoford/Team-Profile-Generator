@@ -1,6 +1,7 @@
 # Team-Profile-Generator
 Challenge 10: object oriented programming
-##Description: 
+
+## Description: 
  This is a software engineering team generator. The application will prompt the user for information about the employee to build html file for the team. The user can input any number of team members, and they may be a mix of manager, engineers and interns.  When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
  The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information. Before running the application the user must perform an npm install to install all required dependencies.
 
@@ -24,5 +25,5 @@ name
 id
 email
 github
-What is this application using?
-NPM module jest NPM module inquirer javascript node.js google font font awesome
+# Technologies used
+NPM module, jest, inquirer, javascript, node.js
