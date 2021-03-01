@@ -7,24 +7,29 @@ Challenge 10: object oriented programming
 
 Upon launching the app, the user is asked to describe the first member of their team. The user enters the team member's name, selects that member's role from a list (options include "Engineer," "Intern," and "Manager), enters the member's ID (any string), enters the member's email address, and then must enter another piece of information that will differ depending on what role was selected. If "Engineer" was selected, the app asks the user for the team member's GitHub username; if "Intern" was selected, the member's school is requested; and if "Manager" was chosen, the user is prompted for the team member's phone number.
 
-For example: If you select "intern" you will need to fill out
+For "intern" you will need to submit:
 
 name
 id
 email
 school
-If you select "manager" you will need to fill out
+
+
+For "manager" :
 
 name
 id
 email
 offce number
-If you select "engineer" you will need to fill out
+
+
+For "engineer" :
 
 name
 id
 email
 github
+The github account name will be a clicklable link in the generated html team profile
 
 ## Test screenshot
 [![my-team-screenshot.png](https://i.postimg.cc/cCVC7KP7/my-team-screenshot.png)](https://postimg.cc/WqwsT4Nt)
