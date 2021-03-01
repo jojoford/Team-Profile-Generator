@@ -25,7 +25,13 @@ name
 id
 email
 github
+
+## Test screenshot
+[![my-team-screenshot.png](https://i.postimg.cc/cCVC7KP7/my-team-screenshot.png)](https://postimg.cc/WqwsT4Nt)
+
 # Technologies used
 NPM module, jest, inquirer, javascript, node.js
 
 ## Walk through video
+[![image.jpg](https://i.postimg.cc/Wz96s7FN/image.jpg)](https://postimg.cc/XBCy8dkm)
+https://drive.google.com/file/d/1ikozYCu3W0KrP7sasSDm2cu2FOKkYR5C/view
